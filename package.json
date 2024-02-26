@@ -1,4 +1,14 @@
 {
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "A test project",
+  "author": "Dfuums",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dfuums/tictactoe"
+  },
+  "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.21",
     "tictactoe11": "^1.0.1"

@@ -2,11 +2,18 @@
     "name": "tictactoe",
     "version": "1.0.0",
     "description": "A test project",
-    "author": "Nama Anda",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Dfuums",
     "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/Dfuums/tictactoe"
     },
-    "program": "tictactoe.aleo"
+    "dependencies": {
+        "nodemon": "^3.1.0",
+        "tictactoe11": "^1.0.1"
+    }
 }
