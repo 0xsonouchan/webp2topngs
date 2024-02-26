@@ -1,6 +1,12 @@
 {
-    "program": "tictactoe.aleo",
-    "version": "0.0.0",
-    "description": "",
-    "license": "MIT"
+    "name": "tictactoe",
+    "version": "1.0.0",
+    "description": "A test project",
+    "author": "Nama Anda",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dfuums/tictactoe"
+    },
+    "program": "tictactoe.aleo"
 }
