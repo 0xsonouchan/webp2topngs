@@ -1,6 +1,6 @@
 {
   "name": "webp2topngs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A test project",
   "author": "0xsonouchan",
   "license": "MIT",
@@ -11,7 +11,8 @@
   "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.21",
-    "ttictactoe111": "1.0.0"
+    "ttictactoe111": "1.0.0",
+    "yimi_xiaochengxu": "1.0.0"
 
   }
 }
